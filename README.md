@@ -1,3 +1,5 @@
+[Oct 10] Code repository is public
+
 For inquiries about source code or models, please send an email to nils.lukas@mbzuai.ac.ae
 
 If you find our repository useful, please cite the following paper.
